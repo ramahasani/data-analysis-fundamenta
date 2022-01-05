@@ -1,2 +1,2 @@
-# pandas
-pandas fundamental projects
+# data analysis
+data analysis fundamental projects
